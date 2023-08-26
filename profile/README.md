@@ -62,7 +62,7 @@ Follow us on social media to stay updated:
 
 ## Contact Us
 
-We're here to support your journey of creating exceptional user experiences and leveraging data-driven insights. If you have any inquiries, feedback, or need assistance, don't hesitate to [contact us](https://uxlivinglab.com/en/contact/).
+We're here to support your journey of creating exceptional user experiences and leveraging data-driven insights. If you have any inquiries, feedback, or need assistance, don't hesitate to [contact us](mailto:dowell@dowellresearch.uk).
 
 Visit our official website: [DoWell UX Living Lab](https://uxlivinglab.com/en/)
 
