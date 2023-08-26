@@ -1,5 +1,4 @@
-# DoWell UX Living Lab ![](https://komarev.com/ghpvc/?username=DoWellUXLab&color=green&label=VISITORS)
-
+# Welcome to DoWell UX Living Lab ![](https://komarev.com/ghpvc/?username=DoWellUXLab&color=green&label=VISITORS)
 
 Welcome to DoWell UX Living Lab! We're thrilled to have you here and excited to introduce you to our range of cutting-edge API services and tools designed to enhance user experiences, streamline processes, and provide valuable insights. As a part of DoWell Research, a renowned global User Experience research team established in 1995, we've been dedicated to delivering top-notch solutions to industry leaders like Google, Spotify, and many other global brands. Our commitment to excellence and innovation drives us to provide you with the best tools to fuel your projects.
 
@@ -11,35 +10,35 @@ Since our inception as a startup in 1995, DoWell Research has evolved into a com
 
 At DoWell UX Living Lab, we're proud to offer a diverse range of API services that cater to various needs. These services are designed to empower developers, designers, and researchers to create exceptional user experiences, streamline operations, and extract meaningful insights from data. Here's a glimpse of the APIs we offer along with their respective credits:
 
-| API Service Name                             | Credits |
-|---------------------------------------------|---------|
-| DOWELL EMAIL                                | 25      |
-| DOWELL NEWSLETTER                           | 25      |
-| SAMANTA CONTENT EVALUATOR                   | 25      |
-| DOWELL LOGIN                                | 50      |
-| LIVING LAB SCALE                            | 10      |
-| DOWELL PAYMENTS                             | 25      |
-| DOWELL QR CODE GENERATOR                    | 10      |
-| DOWELL PERMUTATIONS                         | 10      |
-| LIVING LAB MAPS                             | 50      |
-| DOWELL SECURE GITHUB REPOSITORY             | 10      |
-| DOWELL CLASSIFICATION OF BIG DATA           | 10      |
-| DOWELL RANDOM GRAPH                         | 10      |
-| DOWELL CONNECTION                           | 50      |
-| DOWELL WIFI QR CODE                         | 10      |
-| DOWELL TOPIC GENERATION                     | 50      |
-| DOWELL SURVEYS                              | 25      |
-| DOWELL SHUFFLING OF BIG DATA                | 10      |
-| DOWELL COORDINATES                          | 10      |
-| DOWELL STATISTICAL DISTRIBUTIONS FROM BIG DATA PUBLIC | 10 |
-| GEOMETRICAL LAYOUT OF BIG DATA              | 10      |
-| CENTRAL TENDENCIES FOR BIG STATISTICAL DATA | 10      |
-| OPEN SOURCE LICENSE COMPATIBILITY CHECK BY DOWELL | 10  |
-| SAMPLING FROM BIG DATA BY DOWELL            | 20      |
-| DOWELL SAMPLE SIZE CALCULATION              | 20      |
-| DOWELL NORMALITY TEST                       | 10      |
-| DOWELL PPP                                  | 50      |
-| DOWELL SMS                                  | 10      |
+| Serial No. | API Service Name                                 |
+|------------|-------------------------------------------------|
+| **1**      | **DOWELL EMAIL**                                |
+| **2**      | **DOWELL NEWSLETTER**                           | 
+| **3**      | **SAMANTA CONTENT EVALUATOR**                   | 
+| **4**      | **DOWELL LOGIN**                                | 
+| **5**      | **LIVING LAB SCALE**                            | 
+| **6**      | **DOWELL PAYMENTS**                             | 
+| **7**      | **DOWELL QR CODE GENERATOR**                    | 
+| **8**      | **DOWELL PERMUTATIONS**                         | 
+| **9**      | **LIVING LAB MAPS**                             | 
+| **10**     | **DOWELL SECURE GITHUB REPOSITORY**             | 
+| **11**     | **DOWELL CLASSIFICATION OF BIG DATA**           | 
+| **12**     | **DOWELL RANDOM GRAPH**                         | 
+| **13**     | **DOWELL CONNECTION**                           | 
+| **14**     | **DOWELL WIFI QR CODE**                         | 
+| **15**     | **DOWELL TOPIC GENERATION**                     | 
+| **16**     | **DOWELL SURVEYS**                              | 
+| **17**     | **DOWELL SHUFFLING OF BIG DATA**                | 
+| **18**     | **DOWELL COORDINATES**                          |
+| **19**     | **DOWELL STATISTICAL DISTRIBUTIONS FROM BIG DATA PUBLIC** |
+| **20**     | **GEOMETRICAL LAYOUT OF BIG DATA**              | 
+| **21**     | **CENTRAL TENDENCIES FOR BIG STATISTICAL DATA** | 
+| **22**     | **OPEN SOURCE LICENSE COMPATIBILITY CHECK BY DOWELL** |
+| **23**     | **SAMPLING FROM BIG DATA BY DOWELL**            | 
+| **24**     | **DOWELL SAMPLE SIZE CALCULATION**              | 
+| **25**     | **DOWELL NORMALITY TEST**                       |
+| **26**     | **DOWELL PPP**                                  | 
+| **27**     | **DOWELL SMS**                                  |
 
 ## Getting Started
 
