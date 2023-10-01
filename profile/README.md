@@ -40,6 +40,8 @@ At DoWell UX Living Lab, we're proud to offer a diverse range of API services th
 | **26**     | **DOWELL PPP**                                  | 
 | **27**     | **DOWELL SMS**                                  |
 | **28**     | **SAMPLING FROM BIG DATA BY DOWELL**           |
+| **29**     | **DOWELL LIVING LAB CHAT**            |
+| **30**     | **DOWELL WEBSITE CRAWLER**                       |
 
 ## Getting Started
 
