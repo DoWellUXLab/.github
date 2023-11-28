@@ -2,11 +2,11 @@
 
 Welcome to DoWell UX Living Lab! We're thrilled to have you here and excited to introduce you to our range of cutting-edge API services and tools designed to enhance user experiences, streamline processes, and provide valuable insights. As a part of DoWell Research, a renowned global User Experience research team established in 1995, we've been dedicated to delivering top-notch solutions to industry leaders like Google, Spotify, and many other global brands. Our commitment to excellence and innovation drives us to provide you with the best tools to fuel your projects.
 
-## About Us
+## :dizzy: About Us 
 
 Since our inception as a startup in 1995, DoWell Research has evolved into a comprehensive management consulting and user experience research firm. Over the years, we've established ourselves as a highly-rated UX research partner, collaborating with major players in the tech world. Our extensive field research team operates across 125 locations worldwide, ensuring that our insights are both comprehensive and globally relevant.
 
-## Our API Services
+## :pushpin: Our API Services
 
 At DoWell UX Living Lab, we're proud to offer a diverse range of API services that cater to various needs. These services are designed to empower developers, designers, and researchers to create exceptional user experiences, streamline operations, and extract meaningful insights from data. Here's a glimpse of the APIs we offer along with their respective credits:
 
@@ -43,7 +43,7 @@ At DoWell UX Living Lab, we're proud to offer a diverse range of API services th
 | **29**     | **DOWELL LIVING LAB CHAT**            |
 | **30**     | **DOWELL WEBSITE CRAWLER**                       |
 
-## Getting Started
+## :running: Getting Started
 
 To begin using our APIs, you need to obtain a service key. As a new user, we're excited to offer you **1000 free credits** upon registration. These credits will allow you to explore and experiment with our services. To get your service key and start using our APIs, follow these steps:
 
@@ -53,7 +53,7 @@ To begin using our APIs, you need to obtain a service key. As a new user, we're 
 
 We're committed to providing you with a smooth and productive experience, so feel free to reach out to our support team if you have any questions or encounter any issues.
 
-## Connect With Us
+## :fax: Connect With Us
 
 Follow us on social media to stay updated:
 
@@ -63,9 +63,10 @@ Follow us on social media to stay updated:
 [![YouTube](https://img.icons8.com/color/48/000000/youtube.png)](https://www.youtube.com/channel/UC_Ftf9dTQtKHS2N0KD0duwg)
 [![Google](https://img.icons8.com/color/48/000000/google-logo.png)](https://www.google.com/search?q=%40uxlivinglab)
 
-<a href="https://www.buymeacoffee.com/gbraad](http://dowellfileuploader.uxlivinglab.online/qrCodes/qrcode_1701151373.jpg" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Bring Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+## :coffee: Bring US Coffee
+<img src="http://dowellfileuploader.uxlivinglab.online/qrCodes/qrcode_1701151373.jpg" width="200" height="200" />
 
-## Contact Us
+## :e-mail: Contact Us
 
 We're here to support your journey of creating exceptional user experiences and leveraging data-driven insights. If you have any inquiries, feedback, or need assistance, don't hesitate to [contact us](mailto:dowell@dowellresearch.uk).
 
