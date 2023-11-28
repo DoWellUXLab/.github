@@ -63,6 +63,8 @@ Follow us on social media to stay updated:
 [![YouTube](https://img.icons8.com/color/48/000000/youtube.png)](https://www.youtube.com/channel/UC_Ftf9dTQtKHS2N0KD0duwg)
 [![Google](https://img.icons8.com/color/48/000000/google-logo.png)](https://www.google.com/search?q=%40uxlivinglab)
 
+<a href="https://www.buymeacoffee.com/gbraad](http://dowellfileuploader.uxlivinglab.online/qrCodes/qrcode_1701151373.jpg" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Bring Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
 ## Contact Us
 
 We're here to support your journey of creating exceptional user experiences and leveraging data-driven insights. If you have any inquiries, feedback, or need assistance, don't hesitate to [contact us](mailto:dowell@dowellresearch.uk).
