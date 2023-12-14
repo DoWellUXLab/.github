@@ -63,7 +63,7 @@ Follow us on social media to stay updated:
 [![YouTube](https://img.icons8.com/color/48/000000/youtube.png)](https://www.youtube.com/channel/UC_Ftf9dTQtKHS2N0KD0duwg)
 [![Google](https://img.icons8.com/color/48/000000/google-logo.png)](https://www.google.com/search?q=%40uxlivinglab)
 
-## :coffee: Bring US Coffee
+## :coffee: Bring Us Coffee
 <img src="http://dowellfileuploader.uxlivinglab.online/qrCodes/qrcode_1701151373.jpg" width="200" height="200" />
 
 ## :e-mail: Contact Us
